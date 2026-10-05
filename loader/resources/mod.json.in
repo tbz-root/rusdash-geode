@@ -20,24 +20,30 @@
         "fonts": {
             "mdFont": {
                 "path": "fonts/Ubuntu-Regular.ttf",
-                "size": 80
+                "size": 80,
+                "charset": "32-126,1024-1279,8226"
             },
             "mdFontB": {
                 "path": "fonts/Ubuntu-Bold.ttf",
-                "size": 80
+                "size": 80,
+                "charset": "32-126,1024-1279,8226"
             },
             "mdFontI": {
                 "path": "fonts/Ubuntu-Italic.ttf",
-                "size": 80
+                "size": 80,
+                "charset": "32-126,1024-1279,8226"
             },
             "mdFontBI": {
                 "path": "fonts/Ubuntu-BoldItalic.ttf",
-                "size": 80
+                "size": 80,
+                "charset": "32-126,1024-1279,8226"
             },
             "mdFontMono": {
                 "path": "fonts/UbuntuMono-Regular.ttf",
-                "size": 80
+                "size": 80,
+                "charset": "32-126,1024-1279,8226"
             }
+        }
         },
         "sprites": [
             "images/*.png",
